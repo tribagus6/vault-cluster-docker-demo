@@ -1,0 +1,13 @@
+# DO NOT COMMIT SENSITIVE FILES
+*/data/
+*/license.hclic
+*/*raft.db
+*/*snapshots
+*/*.hclic
+**/unseal.txt
+**/root-token.txt
+*.hclic
+vault-1/data/
+vault-2/data/
+vault-3/data/
+
